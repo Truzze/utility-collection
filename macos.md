@@ -4,7 +4,7 @@
 In this repository i list all the macOS utilities and apps i use and some honorable mentions.
 
 - [x] Utilities/Apps marked like this are currently installed on my Mac
-- [ ] Utilities/Apps maked like this are currently not installed but still good alternatives or honorable mentions
+- [ ] Utilities/Apps marked like this are currently not installed but still good alternatives or honorable mentions
 
 Utilities/Apps that are not free to use are marked with a dollar sign `[$]`
 
